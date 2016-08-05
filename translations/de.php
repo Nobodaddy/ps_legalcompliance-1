@@ -8,8 +8,8 @@ $_MODULE['<{ps_legalcompliance}prestashop>ps_legalcompliance_bb8956c67b82c7444a8
 $_MODULE['<{ps_legalcompliance}prestashop>ps_legalcompliance_3b528a3fe35bcd29ad2ab0e77fe01d4d'] = 'Neuer Hook konnte nicht installiert werden';
 $_MODULE['<{ps_legalcompliance}prestashop>ps_legalcompliance_cac77d4c7de337f13ad1e89a8cecbc7f'] = 'Lieferzeit: 1-2 Werktage';
 $_MODULE['<{ps_legalcompliance}prestashop>ps_legalcompliance_eeb992239a8454067cd7a47bbf0df359'] = 'Lieferzeit: 7-10 Werktage';
-$_MODULE['<{ps_legalcompliance}prestashop>ps_legalcompliance_23e162ba6bf36c7560ebbc868d9e2552'] = 'Rechtliche Hinweise';
-$_MODULE['<{ps_legalcompliance}prestashop>ps_legalcompliance_626682a1bbf1426b7bbd9834e9201e0c'] = 'Legen Sie hier die rechtlichen Informationen Ihres Shops fest.';
+$_MODULE['<{ps_legalcompliance}prestashop>ps_legalcompliance_23e162ba6bf36c7560ebbc868d9e2552'] = 'Impressum';
+$_MODULE['<{ps_legalcompliance}prestashop>ps_legalcompliance_626682a1bbf1426b7bbd9834e9201e0c'] = 'Geben Sie hier das Impressum Ihres Shops ein.';
 $_MODULE['<{ps_legalcompliance}prestashop>ps_legalcompliance_98664ee75f74254b622a52d86a798ae3'] = 'Allgemeine Geschäftsbedingungen (AGB)';
 $_MODULE['<{ps_legalcompliance}prestashop>ps_legalcompliance_4090d0a6d74c4be967a71d0d6f115bbe'] = 'Bitte geben Sie hier Ihre Allgemeinen Geschäftsbedingungen (AGB) ein.';
 $_MODULE['<{ps_legalcompliance}prestashop>ps_legalcompliance_93fb7e4d4616f108db46461360b7a6ae'] = 'Widerrufsrecht';
