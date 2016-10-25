@@ -52,9 +52,9 @@ $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_1baebea50e8acd4
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_b9ce94c1da6a209c8abf065f519137c3'] = 'Dezimalstellen Gewicht';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_6e93a6c4af0970a53ab3982a84932c46'] = 'Auswahl der Dezimalstellen der Gewichtsangabe (z.B.  1 %s für 0 Dezimalstellen, 1.01 %s für zwei Dezimalstellen)';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_a5571962864b29d86785fffc9069d5ca'] = 'Wert darf nicht negativ sein.';
-$_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_36351ad1d80323e91bdc6f69caee6775'] = 'Widerrufsrecht in den AGB';
-$_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_50c550b9c0a0d6d8d7477915de9d6152'] = 'Widerrufsrecht in die AGB einschließen.';
-$_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_a9f8920ab987fd7707b4b449ccfdcece'] = 'Falls aktiviert, muss das Widerrufsrecht mit einer CMS-Seite weiter unten (Verwaltung rechtskonformer Inhalte) verknüpft sein.';
+$_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_36351ad1d80323e91bdc6f69caee6775'] = 'Widerrufsbelehrung zu AGB-Checkbox';
+$_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_50c550b9c0a0d6d8d7477915de9d6152'] = 'Link zur Widerrufsbelehrung zur AGB-Bestätigung hinzufügen.';
+$_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_a9f8920ab987fd7707b4b449ccfdcece'] = 'Falls aktiviert, muss die Widerrufsbelehrung mit einer CMS-Seite weiter unten (Verwaltung rechtskonformer Inhalte) verknüpft sein.';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_f4ced086e850fc06ff4267366382f5d6'] = 'Widerrufsrecht für virtuelle Artikel';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_6ed59df8fcbd3aa25f434da69c19b219'] = 'Pflicht-Checkbox einfügen, falls der Warenkorb virtuelle Artikel enthält. Stellen Sie so sicher, dass der Kunde weiß, dass ein virtueller Artikel nicht zurückgenommen wird.';
 $_MODULE['<{advancedeucompliance}prestashop>advancedeucompliance_80df40c6f7d32d92794f167acf86e15d'] = '"Ab Preis"-Anzeige (falls Varianten vorhanden)';
